@@ -1,6 +1,6 @@
 # Spam Email Classifier
 
-The Spam Email Classifier is a Machine Learning model that uses a Naive Bayes classifier to classify emails as spam or not spam. The model was trained on the Enron email dataset and achieved an accuracy of 85%.
+The Spam Email Classifier is a Machine Learning model that uses a Naive Bayes classifier to classify emails as spam or not spam. The model was trained on the Enron email dataset and achieved an accuracy of 87%.
 
 ## Features
 
